@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sunnah Attires - Professional Website</title>
+  <style>
+    /* Add your custom CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+    }
+   
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+   
+    h1 {
+      color: #fff;
+      font-size: 36px;
+      margin: 0;
+      text-transform: uppercase;
+    }
+   
+    nav {
+      background-color: #222;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+   
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 18px;
+      text-transform: uppercase;
+    }
+   
+    section {
+      padding: 40px;
+      text-align: center;
+    }
+   
+    h2 {
+      color: #333;
+      font-size: 30px;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+   
+    p {
+      color: #777;
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+   
+    .social-links {
+      margin-top: 30px;
+    }
+   
+    .social-links a {
+      display: inline-block;
+      margin: 0 10px;
+    }
+   
+    .social-links img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      transition: transform 0.3s ease-in-out;
+    }
+   
+    .social-links img:hover {
+      transform: scale(1.1);
+    }
+   
+    footer {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+    }
+   
+    form {
+      margin-top: 30px;
+      text-align: center;
+    }
+   
+    input,
+    textarea {
+      display: block;
+      width: 300px;
+      padding: 10px;
+      margin: 10px auto;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+   
+    button {
+      display: block;
+      width: 150px;
+      padding: 10px;
+      margin: 0 auto;
+      border-radius: 5px;
+      border: none;
+      background-color: #333;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sunnah Attires</h1>
+  </header>
+ 
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Products</a>
+    <a href="#">About Us</a>
+    <a href="contact.html">Contact Us</a>
+  </nav>
+ 
+  <section>
+    <h2>Welcome to Sunnah Attires</h2>
+    <p>Discover the finest collection of Islamic clothing that reflects the beauty of Sunnah.</p>
+    <!-- Add more content and product information here -->
+  </section>
+ 
+  <section>
+    <h2>Connect with us on social media</
+
+
